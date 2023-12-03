@@ -16,10 +16,10 @@ Cada día, durante la temporada de AdventJS, intentaré resolver los desafíos y
 
 - [x] **Día 1:** ¡Primer regalo repetido! - Fácil
   - [x] JavaScript
-  - [ ] TypeScript
+  - [x] TypeScript
 
 - [ ] **Día 2:** Descripción del desafío.
-  - [ ] JavaScript
+  - [x] JavaScript
   - [ ] TypeScript
 
 ...
