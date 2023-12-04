@@ -37,7 +37,7 @@ Asegúrate de tener Node.js y TypeScript instalados en tu máquina.
    ```bash
    git clone https://github.com/alvarob27/adventjs-soluciones.git
 
-2. ¿Quieres contribuir?
+## Cómo contribuir
    - Haz un fork del repositorio
    - Añade tu solución: Sube tu código en una rama separada.
    - Haz un pull request: ¡Comparte tu solución con la comunidad!
