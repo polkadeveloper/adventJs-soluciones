@@ -1,4 +1,5 @@
 # AdventJS Challenges
+![Captura de pantalla 2023-12-04 132010](https://github.com/alvarob27/adventJs-soluciones/assets/103132738/7e14da2a-1393-41e8-afe4-2b51f38a61e1)
 
 Este repositorio contiene mis soluciones a los retos diarios de AdventJS desarrollados por Miguel Ángel Durán ([@midudev](https://github.com/midudev)).
 
@@ -39,3 +40,8 @@ Asegúrate de tener Node.js y TypeScript instalados en tu máquina.
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/alvarob27/adventjs-soluciones.git
+
+## Cómo contribuir
+   - Haz un fork del repositorio
+   - Añade tu solución: Sube tu código en una rama separada.
+   - Haz un pull request: ¡Comparte tu solución con la comunidad!
