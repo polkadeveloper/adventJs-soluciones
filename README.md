@@ -22,7 +22,11 @@ Cada día, durante la temporada de AdventJS, intentaré resolver los desafíos y
   - [x] JavaScript
   - [x] TypeScript
 
-- [ ] **Día 3:** El elfo travieso - Fácil
+- [x] **Día 3:** El elfo travieso - Fácil
+  - [x] JavaScript
+  - [x] TypeScript
+
+- [ ] **Día 4:** Dale la vuelta a los paréntesis - Fácil
   - [ ] JavaScript
   - [ ] TypeScript
 

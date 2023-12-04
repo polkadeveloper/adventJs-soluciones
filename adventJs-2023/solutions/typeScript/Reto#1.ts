@@ -8,6 +8,8 @@ Sin embargo, debido a un error en la máquina de juguetes, algunos números se h
 En otras palabras, si hay más de un número repetido, debes devolver el número cuya segunda ocurrencia aparezca primero en la lista.
 
 Si no hay números repetidos, devuelve -1.
+
+¡Ojo! Los elfos dicen que esto es una prueba técnica de Google.
 */
 
 
