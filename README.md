@@ -20,7 +20,7 @@ Cada día, durante la temporada de AdventJS, intentaré resolver los desafíos y
 
 - [ ] **Día 2:** Descripción del desafío.
   - [x] JavaScript
-  - [ ] TypeScript
+  - [x] TypeScript
 
 ...
 
