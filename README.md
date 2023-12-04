@@ -18,9 +18,13 @@ Cada día, durante la temporada de AdventJS, intentaré resolver los desafíos y
   - [x] JavaScript
   - [x] TypeScript
 
-- [ ] **Día 2:** Descripción del desafío.
+- [x] **Día 2:** Ponemos en marcha la fábrica - Fácil
   - [x] JavaScript
   - [x] TypeScript
+
+- [ ] **Día 3:** El elfo travieso - Fácil
+  - [ ] JavaScript
+  - [ ] TypeScript
 
 ...
 
