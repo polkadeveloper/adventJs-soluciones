@@ -27,9 +27,9 @@ Cada día, durante la temporada de AdventJS, intentaré resolver los desafíos y
   - [x] JavaScript
   - [x] TypeScript
 
-- [ ] **Día 4:** Dale la vuelta a los paréntesis - Fácil
-  - [ ] JavaScript
-  - [ ] TypeScript
+- [x] **Día 4:** Dale la vuelta a los paréntesis - Medio
+  - [x] JavaScript
+  - [x] TypeScript
 
 ...
 
