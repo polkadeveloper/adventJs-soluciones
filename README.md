@@ -31,6 +31,10 @@ Cada día, durante la temporada de AdventJS, intentaré resolver los desafíos y
   - [x] JavaScript
   - [x] TypeScript
 
+- [x] **Día 5:** El cyber truck de santa - Medio
+  - [x] JavaScript
+  - [x] TypeScript
+
 ...
 
 ## Cómo Ejecutar las Soluciones
