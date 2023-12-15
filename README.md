@@ -35,6 +35,10 @@ Cada día, durante la temporada de AdventJS, intentaré resolver los desafíos y
   - [x] JavaScript
   - [x] TypeScript
 
+- [x] **Día 6:** Los renos a prueba - Fácil
+  - [x] JavaScript
+  - [x] TypeScript
+
 ...
 
 ## Cómo Ejecutar las Soluciones
